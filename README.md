@@ -38,7 +38,7 @@ Since this is a static website, no backend or compilation is required.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/yasharth2004/NetflixCloneUpdated.git
 cd netflix-clone
 ```
 
