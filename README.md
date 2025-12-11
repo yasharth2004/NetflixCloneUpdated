@@ -58,9 +58,6 @@ Here are a few things that could be added to make this project even better:
 * **JavaScript Interactivity:** Add JS to make the FAQ accordion buttons clickable.
 * **Form Validation:** Add simple validation to the email input fields.
 
-## 👤 Author
-
-* **[Your Name]** - Initial work
 
 ## 📜 License
 
